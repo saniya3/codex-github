@@ -46,6 +46,7 @@ Contributions of Codex members on Github
 
 | Name | Github Username |
 |:------|:----------------:|
+| Saniya Ahuja| [saniya3](https://github.com/saniya3)
 | Sourav Bera | [SouravBera8850](https://github.com/SouravBear8850)
 | Subhransu Dash | [Ashis-007](https://github.com/Ashis-007)
 | A S V K VINAYAK |[ASVKVINAYAK](https://github.com/ASVKVINAYAK)
